@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Revamp Chatbot UI
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# tarrot
+A tarrot reading app
+>>>>>>> ebf808a4cde4098a32aa22971f95ddd72f87dc1f
